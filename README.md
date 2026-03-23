@@ -34,8 +34,8 @@ Install dependencies:
 
 
 requirements.txt=
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+numpy,
+pandas,
+matplotlib,
+seaborn,
+scikit-learn.
